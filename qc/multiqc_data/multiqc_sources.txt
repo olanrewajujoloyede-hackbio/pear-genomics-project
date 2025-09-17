@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR7135493_1	/home/maa/Olanrewaju/pear_project/qc/SRR7135493_1_fastqc.zip
+FastQC	all_sections	SRR7135493_2	/home/maa/Olanrewaju/pear_project/qc/SRR7135493_2_fastqc.zip
+FastQC	all_sections	SRR7135521_1	/home/maa/Olanrewaju/pear_project/qc/SRR7135521_1_fastqc.zip
+FastQC	all_sections	SRR7135521_2	/home/maa/Olanrewaju/pear_project/qc/SRR7135521_2_fastqc.zip
+FastQC	all_sections	SRR32764071_1	/home/maa/Olanrewaju/pear_project/qc/SRR32764071_1_fastqc.zip
+FastQC	all_sections	SRR32764071_2	/home/maa/Olanrewaju/pear_project/qc/SRR32764071_2_fastqc.zip
+FastQC	all_sections	SRR32764072_1	/home/maa/Olanrewaju/pear_project/qc/SRR32764072_1_fastqc.zip
+FastQC	all_sections	SRR32764072_2	/home/maa/Olanrewaju/pear_project/qc/SRR32764072_2_fastqc.zip
