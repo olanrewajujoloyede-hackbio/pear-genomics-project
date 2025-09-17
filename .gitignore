@@ -1,0 +1,24 @@
+# raw data & large outputs (DO NOT push these)
+raw/
+trim/
+mapping/
+reference/
+*.fastq
+*.fastq.gz
+*.fna
+*.fasta
+*.bam
+*.sam
+*.vcf.gz
+*.fna.gz
+*.fasta.gz
+
+# conda env / local build
+miniconda3/
+envs/
+__pycache__/
+*.log
+
+# editor files
+*.swp
+.DS_Store
